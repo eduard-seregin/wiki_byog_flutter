@@ -21,14 +21,15 @@ samples, guidance on mobile development, and a full API reference.
   - Sign in (1 credential hardcoded)
   - Everyone: List of guides with plus button
   - Guide maker:
-	-- create guide, add name and description, teaser photo
-	-- exact location questionnaire
- - Tourist
-	-- landing page of the guide (picture and the short description), how many locations
-	-- to do list (cards of locations - picture and the name)
- 	-- to propose start (name and hints, request another hint, good to have and area, timer is started and displayed)
-   purpose, display teaser
-	--  Overall rating (after finalizing all tasks) - score, competitor's pictures)
+    -- create guide, add name and description, teaser photo
+    -- exact location questionnaire
+  - Tourist
+     -- landing page of the guide (picture and the short description), how many locations
+     -- to do list (cards of locations - picture and the name)
+      -- to propose start (name and hints, request another hint, good to have and area, timer is started and displayed)
+    purpose, display teaser
+	-- Submit answer (Street, building )  
+     --  Overall rating (after finalizing all tasks) - score, competitor's pictures)
 ## TARGET GROUP
 -	Guide makers
      – professionals and amateurs in history of the cities
